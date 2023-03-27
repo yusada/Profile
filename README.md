@@ -1,5 +1,5 @@
 # 💫 About Me :
-👯 I’m looking to collaborate<br>🤝 I’m looking for help<br>🌱 I’m currently learning all about programming<br>💬<br>⚡.
+👯 I’m looking to collaborate<br>🤝 I’m looking for help<br>🌱 I’m currently learning all about programming<br>💬.<br>⚡.
 
 
 # 💻 Tech Stack :
