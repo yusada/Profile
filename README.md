@@ -4,8 +4,8 @@
 # 📊 GitHub Stats :
 <p align="left">
 <a href="https://github.com/yusada">
-  ![](https://github-readme-stats.vercel.app/api?username=yusada&theme=radical&hide_border=true&include_all_commits=true&count_private=false)<br/>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=yusada&theme=radical&hide_border=true)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yusada&theme=radical&hide_border=true&include_all_commits=true&count_private=false"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yusada&theme=radical&hide_border=true"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yusada&theme=dark&hide_border=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusada&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
 </a>
