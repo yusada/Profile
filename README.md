@@ -1,10 +1,9 @@
 ###  Hi, There👋
 👯 I’m looking to collaborate<br>🤝 I’m looking for help<br>🌱 I’m currently learning all about programming<br>
 
-# 📊 GitHub Stats :
+## 📊 Github Stats :
 <p align="left">
 <a href="https://github.com/yusada">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yusada&theme=dark&hide_border=false&include_all_commits=true&count_private=false"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yusada&theme=dark&hide_border=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusada&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
 </a>
